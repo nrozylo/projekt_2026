@@ -3,6 +3,15 @@
 ## Opis projektu:
 Głównym celem projektu jest zbudowanie modeli predykcyjnych korzystając z `train_energy_data.scv`, które na podstawie danych takich jak metraż, liczba osób w budynku oraz liczba urządzeń elektrycznych, są w stanie przewidzieć ilość zużytej energii w danym budynku (jednostka = kWh).
 
+## Dane:
+- `Building Type`: budynek mieszkalny, budynek usługowy lub budynek przemysłowy
+- `Square Footage`: łączna powierzchnia budynku
+- `Number of Occupants`: liczba osób w budynku
+- `Appliances Used`: liczba urządzeń
+- `Average Temperature`: średnia temperatura w budynku lub na danym obszarze klimatycznym (w stopniach Celsjusza)
+- `Day of Week`: dzień tygodnia (Weekday lub Weekend)
+- `Energy Consumption`: zużycie energii w budynku (w kilowatogodzinach)
+
 ## Zawartość repozytorium:
 - notatnik `projekt_energy.ipnyb` w Google Colab. Zawiera on:
   - eksplorację i wizualizację danych,
