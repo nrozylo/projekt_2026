@@ -18,9 +18,9 @@ Głównym celem projektu jest zbudowanie dwóch modeli predykcyjnych korzystają
 4. Porównanie modeli i wskazanie najlepszego z nich.
 
 ## Wyniki:
-**Najlepszy model**: Linear Regression
-**Wskaźnik RMSE**: 0.0137
-**Optymalne parametry dla Random Forest**: `{'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 150}`
+- **Najlepszy model**: Linear Regression
+- **Wskaźnik RMSE**: 0.0137
+- **Optymalne parametry dla Random Forest**: `{'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 150}`
 
 
 
