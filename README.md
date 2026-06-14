@@ -22,8 +22,8 @@ Głównym celem projektu jest zbudowanie modeli predykcyjnych korzystając z `tr
 
 ## Kroki podjęte w projekcie:
 1. Analiza danych i wizualizacja - ukazanie struktury oraz danych statystycznych, histogramy (rozkład parametrów), macierz korelacji.
-2. Czyszczenie i przygotowanie danych - zastosowano kod wykrywający i usuwający duplikaty oraz outliery, podzielono dane przy użyciu `train_test_split`, stworzono potok, aby przygotować stabilny model.
-3. Uczenie maszynowe - zbudowano modele Linear Regression, Random Forest, oraz Random Forest z zastosowaniem `GridSearchCV`.
+2. Czyszczenie i przygotowanie danych - zastosowano kod wykrywający i usuwający duplikaty, podzielono dane przy użyciu `train_test_split`, stworzono potok, aby przygotować stabilny model.
+3. Uczenie maszynowe - zbudowano modele Linear Regression oraz Random Forest z zastosowaniem `GridSearchCV`.
 4. Porównanie modeli i wskazanie najlepszego z nich.
 
 ## Wyniki:
