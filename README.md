@@ -13,7 +13,7 @@ Głównym celem projektu jest zbudowanie modeli predykcyjnych korzystając z `tr
 - `Energy Consumption`: zużycie energii w budynku (w kilowatogodzinach)
 
 ## Zawartość repozytorium:
-- notatnik `projekt_energy.ipnyb` w Google Colab. Zawiera on:
+- notatnik `projekt.ipnyb` w Google Colab. Zawiera on:
   - eksplorację i wizualizację danych,
   - czyszczenie danych oraz zbudowanie Pipeline,
   - implementację modeli Linear Regression i Random Forest Regressor, wraz z optymalizacją hiperparametrów,
